@@ -1,8 +1,19 @@
 <?php
 require('header.php');
 ?>
-
-    <div class="grid grid-cols-4 gap-3 my-6 mx-6">
+<style>
+    .container {
+    margin: 0 auto;
+    border: none;
+    background: 0 0;
+    width: 980px;
+    box-shadow: none;
+    position: relative;
+    clear: both;
+}
+</style>
+<div class="container">
+        <div class="grid grid-cols-4 gap-3 my-6 mx-6">
         <div><img class="w-16 md:w-32 lg:w-36" src="http://localhost/Gadgets90/img/poco-x5-5g.PNG" alt=""></div>
         <div class="col-span-3 grid grid-cols-3 gap-3">
             <div class="col-span-3"><h1 class="text-2xl font-bold">Poco X5 5G</h1></div>
@@ -28,33 +39,93 @@ Xiaomi is launching the new Poco X5 series with a brand new GT model that will b
     </div>
     <div class="my-6 mx-6">
         <h2 class="text-lg font-bold">Poco X5 5G Full Specifications</h2>
-        <table class="table-auto" border="1">
+        <table class="table-auto border-solid border-2 border-black">
             <tr>
-                <td class="font-medium" rowspan="6">Build</td>
-                <td></td>
-                <td></td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="6">Build</TH>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">OS</td>
+                <td  class="border-solid border-2 border-black py-2 px-2">Android 12</td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">UI</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">MIUI 13 for POCO</td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Dimensions</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">165.8 x 76.2 x 7.9 mm</td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Weight</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">188 g</td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">SIM</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Hybrid Dual SIM, Dual Standby, (Nano-SIM)</td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Colors</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Various</td>
+            </tr>
+            <?php //SECOND SECTION:?>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="4">Frequency</td>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">2G Band</th>
+                <td  class="border-solid border-2 border-black py-2 px-2"><b>SIM1:</b> GSM 850 / 900 / 1800 / 1900<br><b>SIM2:</b> GSM 850 / 900 / 1800 / 1900 &nbsp;</td>
+            </tr>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">3G Band</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">HSDPA 850 / 900 / 2100</td>
+            </tr>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">4G Band</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">LTE</td>
+            </tr>
+            <tr>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">5G Band</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">SA/NSA</td>
+            </tr>
+            <?php //THIRD SECTION:?>
+            <tr>
+                <th align="left" class="bordesolid border-2 border-black py-2 px-2" rowspan="4">Performance</td>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">CPU</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Octa Core</td>
+            </tr>
+            <tr>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">RAM</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">6 GB</td>
+            </tr>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Chipset</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Qualcomm Snapdragon 695, 6 nm</td>
+            </tr>
+            
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">GPU</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Adreno 619</td>
+            </tr>
+            <?php //FOURTH SECTION:?>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="5">Display</TH>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Technology</td>
+                <td  class="border-solid border-2 border-black py-2 px-2">AMOLED Capacitive Touchscreen, Multitouch</td>
+            </tr>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Size</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">6.67 Inches</td>
+            </tr>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Resolution</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">1080 x 2400 Pixels (~395 PPI)</td>
+            </tr>
+            <tr>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Protection</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Corning Gorilla Glass 3</td>
+            </tr>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Extra Features</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">120Hz, 700 nits (HBM), 1200 nits (peak)</td>
             </tr>
         </table>
     </div>
+</div>
 
 <?php require('footer.php'); ?>
