@@ -28,8 +28,32 @@ Xiaomi is launching the new Poco X5 series with a brand new GT model that will b
     </div>
     <div class="my-6 mx-6">
         <h2 class="text-lg font-bold">Poco X5 5G Full Specifications</h2>
-        <table class="table-auto">
-            
+        <table class="table-auto" border="1">
+            <tr>
+                <td class="font-medium" rowspan="6">Build</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+            </tr>
         </table>
     </div>
 
