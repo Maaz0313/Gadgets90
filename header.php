@@ -49,18 +49,7 @@
           </svg>
         </button>
         <script>
-          // sidebar functionality
-          var sidebar = document.getElementById('sidebar');
-  var toggleSidebarMobile = function toggleSidebarMobile(toggleSidebarMobileHamburger, toggleSidebarMobileClose) {
-    toggleSidebarMobileHamburger.classList.toggle('hidden');
-    toggleSidebarMobileClose.classList.toggle('hidden');
-  };
-  var toggleSidebarMobileEl = document.getElementById('toggleSidebarMobile');
-  var toggleSidebarMobileHamburger = document.getElementById('toggleSidebarMobileHamburger');
-  var toggleSidebarMobileClose = document.getElementById('toggleSidebarMobileClose');
-  toggleSidebarMobileEl.addEventListener('click', function () {
-    toggleSidebarMobile(toggleSidebarMobileHamburger, toggleSidebarMobileClose);
-  });
+          
         </script>
       </div>
 
@@ -92,15 +81,26 @@
   </div>
 </nav>
 <script>
-    // grab everything we need
+// grab everything we need
 const btn = document.querySelector("button.mobile-menu-button");
 const menu = document.querySelector(".mobile-menu");
-
+//toggle functionality for menu
 // add event listeners
 btn.addEventListener("click", () => {
   menu.classList.toggle("hidden");
 });
+// toggle functionality for hambuger & close icons
+  var toggleSidebarMobile = function toggleSidebarMobile(toggleSidebarMobileHamburger, toggleSidebarMobileClose) {
+    toggleSidebarMobileHamburger.classList.toggle('hidden');
+    toggleSidebarMobileClose.classList.toggle('hidden');
+  };
+  var toggleSidebarMobileEl = document.getElementById('toggleSidebarMobile');
+  var toggleSidebarMobileHamburger = document.getElementById('toggleSidebarMobileHamburger');
+  var toggleSidebarMobileClose = document.getElementById('toggleSidebarMobileClose');
+  toggleSidebarMobileEl.addEventListener('click', function () {
+    toggleSidebarMobile(toggleSidebarMobileHamburger, toggleSidebarMobileClose);
+  });
   </script>
-    <div class="container text-2xl items-center px-5 py-24 mx-auto flex flex-wrap" style="background:lightgrey">
+    <div class="w-full text-2xl items-center px-5 py-24 mx-auto flex flex-wrap" style="background:lightgrey">
       Your ad here
     </div>

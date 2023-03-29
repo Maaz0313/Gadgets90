@@ -1,18 +1,8 @@
 <?php
 require('header.php');
 ?>
-<style>
-    .container {
-    margin: 0 auto;
-    border: none;
-    background: 0 0;
-    width: 980px;
-    box-shadow: none;
-    position: relative;
-    clear: both;
-}
-</style>
-<div class="container" style="width: 100%;">
+
+<div style="width: 100%;">
         <div class="grid grid-cols-4 gap-3 my-6 mx-6">
         <div><img class="w-16 md:w-32 lg:w-36" src="http://localhost/Gadgets90/img/poco-x5-5g.PNG" alt=""></div>
         <div class="col-span-3 grid grid-cols-3 gap-3">
