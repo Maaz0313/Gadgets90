@@ -4,9 +4,9 @@ require('header.php');
 
 <div style="width: 100%;">
         <div class="grid grid-cols-4 gap-3 my-6 lg:mx-36 sm:mx-6">
-        <div><img class="w-16 md:w-32 lg:w-36" src="http://localhost/Gadgets90/img/poco-x5-5g.PNG" alt=""></div>
+        <div><img style="max-height: 250px; width:auto;max-width: 100%; height: auto;" class="w-16 md:w-32 lg:w-36" src="http://localhost/Gadgets90/img/lenovo-thinkbook-15-21dja049ih.PNG" alt=""></div>
         <div class="col-span-3 grid grid-cols-3 gap-3">
-            <div class="col-span-3"><h1 class="text-2xl font-bold">Poco X5 5G</h1></div>
+            <div class="col-span-3"><h1 class="text-2xl font-bold">Lenovo ThinkBook 15 21DJA049IH Intel Core i5 12th Gen (8GB/512GB SSD/Win 11)</h1></div>
             <div class="flex items-center cursor-pointer"><svg class="mr-1 flex items-center" width="15px" height="15px" viewBox="0 0 20 20" fill="#000" xmlns="http://www.w3.org/2000/svg"><path d="M10 1.6a8.4 8.4 0 1 0 0 16.8 8.4 8.4 0 0 0 0-16.8zm5 9.4h-4v4H9v-4H5V9h4V5h2v4h4v2z"></path></svg>&nbsp;<span>Compare</span></div>
             <div class="flex items-center cursor-pointer"><svg class="mr-1 flex items-center" width="15px" height="15px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#000"><g><path data-name="comment-dots-Filled" d="M18,8H6V6H18V8M18,11H6V9H18V11M18,14H6V12H18V14M22,4A2,2 0 0,0 20,2H4A2,2 0 0,0 2,4V16A2,2 0 0,0 4,18H18L22,22V4Z"></path></g></svg>&nbsp;<span>Comment</span></div>
             <style>
@@ -64,214 +64,202 @@ require('header.php');
                 </div>
             </div>
             <!-- MODAL ENDS -->
-            <div class="col-span-3"><p>Poco X5 5G best price in India is at ₹18,999. The lowest price of Poco X5 5G is ₹18,999 in Flipkart.com.</p>
+            <div class="col-span-3"><p>Lenovo ThinkBook 15 21DJA049IH Intel Core i5 12th Gen (8GB/512GB SSD/Win 11) best price in India is at ₹ 59,990. The lowest price of Lenovo ThinkBook 15 21DJA049IH Laptop is ₹ 59,990 in Amazon.in.</p>
             </div>
             <div class="col-span-3"><p class="text-xl font-medium">Key Specifications</p></div>
             <div style="background-color:#f6f6f4" class="col-span-3 grid grid-cols-3 gap-2">
             <div><p class="font-medium">Launch Date</p><br>March 21, 2023</div>
-            <div><p class="font-medium">Front Camera</p><br>March 21, 2023</div>
             <div><p class="font-medium">Processor</p><br>March 21, 2023</div>
+            <div><p class="font-medium">Display</p><br>March 21, 2023</div>
             <div><p class="font-medium">RAM</p><br>March 21, 2023</div>
-            <div><p class="font-medium">Rear Camera</p><br>March 21, 2023</div>
-            <div><p class="font-medium">Battery</p><br>March 21, 2023</div>
             <div><p class="font-medium">Storage</p><br>March 21, 2023</div>
             <div><p class="font-medium">Operating System</p><br>March 21, 2023</div>
-            <div><p class="font-medium">Display</p><br>March 21, 2023</div>
+            
             </div>
         </div>
     </div>
     <div class="my-6 lg:mx-36 sm:mx-6 pt-2 border-t-2 border-black">
-    <b>Xiaomi Poco X5 GT - The Latest Model From The X5 Series!</b> <br>
-Xiaomi is launching the new Poco X5 series with a brand new GT model that will be available soon in markets. It might be the high-end model of this series, according to leaks and news. The new GT model is rumoured to include features like a larger AMOLED display, improved camera capabilities, a powerful processor, and a larger battery capacity. These features make it stand out from its predecessors and make it an ideal choice for those looking for a high-end smartphone. Let's reveal the amazing features of Xiaomi's Poco X5 GT, featuring a larger 6.67-inch HD+ OLED Capacitive Touchscreen display with a 120Hz refresh rate and 1080 x 2400 pixel resolution. The Xiaomi Poco X5's a well-known Adreno 618 GPU that will allow users to load graphics in high resolution without any errors. A further advantage of this device is the fact that it comes with 12GB of RAM and 512GB of internal storage. Poco X5 GT is fitted with a powerful and well-known Qualcomm Snapdragon 7 Gen 2 chipset, as well as an Octa Core CPU. There is no doubt that the couple of these processors will be able to handle multiple large applications without any problems. Xiaomi Poco's X5 GT has got a triple camera set up with the main camera being 50 MP, and two others being 8 MP and 2 MP. These massive sensors will be able to enhance the quality of photography on this smartphone. On the front, it will have a single 16 MP selfie camera. As part of the Xiaomi X5 GT, the battery has been increased to 5500mAh, so that it can last all day on just one charge, and it is able to support fast charging of 67W so that it can be fully charged within minutes. Samsung and other brands are going to face a new challenger in the form of the Poco X5 GT by Xiaomi.
+    <b>Lenovo ThinkBook 15 21DJA049IH Intel Core i5 12th Gen (8GB/512GB SSD/Win 11) Description</b> <br>
+    Lenovo ThinkBook 15 21DJA049IH Intel Core i5 12th Gen (8GB/512GB SSD/Win 11) best price in India is at ₹59,990. The lowest price of Lenovo ThinkBook 15 21DJA049IH Intel Core i5 12th Gen (8GB/512GB SSD/Win 11) was obtained on April 1, 2023. It is available at 1 stores. The lowest price of Lenovo ThinkBook 15 21DJA049IH Laptop is ₹59,990 in Amazon.in.
     </div>
     <div class="my-6 lg:mx-36 sm:mx-6">
         <h2 class="text-lg font-bold">Poco X5 5G Full Specifications</h2><br>
         <table class="table-auto mx-auto border-solid border-2 border-black">
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="6">Build</TH>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">OS</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Android 12</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="4">General</TH>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Brand</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Lenovo</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">UI</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">MIUI 13 for POCO</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Type</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Thin and Light Laptop</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Dimensions</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">165.8 x 76.2 x 7.9 mm</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Model</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">21DJA049IH</td>
             </tr>
             <tr>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Weight</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">188 g</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">SIM</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Hybrid Dual SIM, Dual Standby, (Nano-SIM)</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Colors</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Various</td>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Operating System</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Windows 11 Home</td>
             </tr>
             <?php //SECOND SECTION:?>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="4">Frequency</td>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">2G Band</th>
-                <td  class="border-solid border-2 border-black py-2 px-2"><b>SIM1:</b> GSM 850 / 900 / 1800 / 1900<br><b>SIM2:</b> GSM 850 / 900 / 1800 / 1900 &nbsp;</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="3">Design</td>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Dimensions</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">35.7 x 23.5 x 1.9 cm</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">3G Band</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">HSDPA 850 / 900 / 2100</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Weight</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">1.7 kg</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">4G Band</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">LTE</td>
-            </tr>
-            <tr>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">5G Band</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">SA/NSA</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Colours</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Grey</td>
             </tr>
             <?php //THIRD SECTION:?>
             <tr>
-                <th align="left" class="bordesolid border-2 border-black py-2 px-2" rowspan="4">Performance</td>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">CPU</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Octa Core</td>
+                <th align="left" class="bordesolid border-2 border-black py-2 px-2" rowspan="5">Display</td>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Touch Screen	</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">No</td>
             </tr>
             <tr>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">RAM</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">6 GB/8 GB</td>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Screen Size</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">15.6 inches, Full HD</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Chipset</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Qualcomm Snapdragon 695, 6 nm</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Screen Resolution</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">	1920 x 1080 pixels</td>
             </tr>
-            
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">GPU</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Adreno 619</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Display</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">250 nits</td>
+            </tr>
+            <tr>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Display Features</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Anti-Glare</td>
             </tr>
             <?php //FOURTH SECTION:?>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="5">Display</TH>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Technology</td>
-                <td  class="border-solid border-2 border-black py-2 px-2">AMOLED Capacitive Touchscreen, Multitouch</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="6">Performance</th>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Processor</td>
+                <td  class="border-solid border-2 border-black py-2 px-2">Intel Core i5 12th Gen</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Size</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">6.67 Inches</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Processor Variant</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">1235UG4</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Resolution</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">1080 x 2400 Pixels (~395 PPI)</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">GPU</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Intel UHD</td>
             </tr>
             <tr>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Protection</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Corning Gorilla Glass 3</td>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Clock Speed</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">4.4 GHz</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Extra Features</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">120Hz, 700 nits (HBM), 1200 nits (peak)</td>
-            </tr>
-            <?php //FIFTH SECTION:?>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="2">Memory</TH>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Internal Storage</td>
-                <td  class="border-solid border-2 border-black py-2 px-2">128 GB, UFS 2.2</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Cores</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">10 Cores, 12 Threads</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Memory Card Slot</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Yes, Up to 1 TB</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">System Architecture</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">64 bit</td>
+            </tr>
+             <?php //FIFTH SECTION:?>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="5">Storage</TH>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">RAM</td>
+                <td  class="border-solid border-2 border-black py-2 px-2">8 GB, DDR4</td>
+            </tr>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">RAM Frequency</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">3200 MHz</td>
+            </tr>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">SSD Storage</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">512 GB</td>
+            </tr>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">HDD Storage</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Not present</td>
+            </tr>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Cache</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">12 MB</td>
             </tr>
             <?php //SIXTH SECTION:?>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="4">Camera</TH>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Rear Camera</td>
-                <td  class="border-solid border-2 border-black py-2 px-2">Triple <br>48 MP f/1.8 (wide) <br> 8&thinsp;MP f/2.2 (ultra wide) <br> 2&thinsp;MP f/2.4 (macro)</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="2">Battery</th>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Battery Type</td>
+                <td  class="border-solid border-2 border-black py-2 px-2">3 cell, Li-ion</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Flash</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">dual-LED dual-tone flash</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Power Supply</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">65W USB-C slim AC adapter</td>
             </tr>
+            <?php //SEVENTH SECTION:?>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Front Camera</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">13 MP, f/2.5, (wide), HDR, Video (1080p@30fps)  </td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Features</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Geo-tagging, touch focus, face detection, HDR,<br> panorama, Video (1080p@30fps)</td>
-            </tr>
-            <!-- SEVENTH SECTION -->
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="8">Connectivity</TH>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">WLAN</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Wi-Fi 802.11 a/b/g/n/ac, dual-band</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Bluetooth</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">v5.1 with A2DP, LE</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">GPS</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">A-GPS support & Glonass, BDS</td>
-            </tr>
-            <tr>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Radio</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">FM Radio, with recording option</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">USB</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">	USB Type-C 2.0, OTG</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">NFC</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Yes, with Google Pay</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Infrared</th>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="2">Connectivity</TH>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Bluetooth</td>
                 <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Data</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">GPRS, Edge, 3G (HSPA 42.2/5.76 Mbps), 4G LTE-A, 5G capable</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Wi-Fi</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
             </tr>
-            <!-- EIGHT SECTION -->
+           
+            <!--EIGHT  SECTION -->
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="2">Battery</TH>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Capacity</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">(Li-Po Non removable), 5000 mAh</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Charging</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">33W fast charging<br>33W in-box charger with USB-C</td>
-            </tr>
-            <!-- NINETH SECTION -->
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="7">Features</TH>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Sensors</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Accelerometer, Electronic Compass, <font color="#000077"><b>Fingerprint (side mounted)</b></font>,<br> Gyro, Proximity, IR blaster, Ambient light sensor</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="5">Ports and Slots</TH>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Ethernet Port</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Yes, 1 x RJ-45</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Audio</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">3.5mm Audio Jack, 24-bit/192kHz audio, Speaker Phone, Hi-Res Audio certification</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">USB Port</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">1 x USB 3.2 Gen 2 Type-C, 1 x Thunderbolt 4,<br> 2 x USB 3.2 Gen 1 Type-A</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Browser</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">HTML5</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">HDMI Port</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">1 x HDMI Port</td>
             </tr>
             <tr>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Messaging</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">SMS(threaded view), MMS, Email, Push Mail, IM</td>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Multi Card Slot</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">4-in-1 card reader</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Games</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Built-in + Downloadable</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Headset Jack</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
             </tr>
+            <!--NINETH SECTION -->
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Torch</th>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="3">Multimedia</TH>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Web Camera</th>
                 <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Extra</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">NFC (market/region dependent), IP53, dust and splash resistant,<br> Photo/video editor, Document viewer</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Mic</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
+            </tr>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Speakers</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Yes, Dual Speaker</td>
+            </tr>
+            <!--TENTH  SECTION -->
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="2">Features</th>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Disk Drive</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">No</td>
+            </tr>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Keyboard</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
+            </tr>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Backlit Keyboard</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
+            </tr>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Fingerprint Sensor</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">No</td>
             </tr>
         </table>
     </div>
