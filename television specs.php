@@ -4,7 +4,7 @@ require('header.php');
 
 <div style="width: 100%;">
         <div class="grid grid-cols-4 gap-3 my-6 lg:mx-36 sm:mx-6">
-        <div><img style="max-height: 250px; width:auto;max-width: 100%; height: auto;" class="w-16 md:w-32 lg:w-36" src="http://localhost/Gadgets90/img/lenovo-thinkbook-15-21dja049ih.PNG" alt=""></div>
+        <div><img style="max-height: 250px; width:auto;max-width: 100%; height: auto;" class="w-16 md:w-32 lg:w-36" src="https://cdn.findprix.com/media/televisions/haier-le32a9000-32-inches-hd-ready.webp" alt=""></div>
         <div class="col-span-3 grid grid-cols-3 gap-3">
             <div class="col-span-3"><h1 class="text-2xl font-bold">Haier LE32A9000 32 inches HD Ready LED Smart TV</h1></div>
             <div class="flex items-center cursor-pointer"><svg class="mr-1 flex items-center" width="15px" height="15px" viewBox="0 0 20 20" fill="#000" xmlns="http://www.w3.org/2000/svg"><path d="M10 1.6a8.4 8.4 0 1 0 0 16.8 8.4 8.4 0 0 0 0-16.8zm5 9.4h-4v4H9v-4H5V9h4V5h2v4h4v2z"></path></svg>&nbsp;<span>Compare</span></div>
