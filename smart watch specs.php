@@ -4,9 +4,9 @@ require('header.php');
 
 <div style="width: 100%;">
         <div class="grid grid-cols-4 gap-3 my-6 lg:mx-36 sm:mx-6">
-        <div><img style="max-height: 250px; width:auto;max-width: 100%; height: auto;" class="w-16 md:w-32 lg:w-36" src="http://localhost/Gadgets90/img/lenovo-thinkbook-15-21dja049ih.PNG" alt=""></div>
+        <div><img style="max-height: 250px; width:auto;max-width: 100%; height: auto;" class="w-16 md:w-32 lg:w-36" src="https://cdn.findprix.com/media/smart-watches/fire-boltt-rocket-smartwach.webp" alt=""></div>
         <div class="col-span-3 grid grid-cols-3 gap-3">
-            <div class="col-span-3"><h1 class="text-2xl font-bold">Lenovo ThinkBook 15 21DJA049IH Intel Core i5 12th Gen (8GB/512GB SSD/Win 11)</h1></div>
+            <div class="col-span-3"><h1 class="text-2xl font-bold">Fire Boltt Rocket Smart Watch</h1></div>
             <div class="flex items-center cursor-pointer"><svg class="mr-1 flex items-center" width="15px" height="15px" viewBox="0 0 20 20" fill="#000" xmlns="http://www.w3.org/2000/svg"><path d="M10 1.6a8.4 8.4 0 1 0 0 16.8 8.4 8.4 0 0 0 0-16.8zm5 9.4h-4v4H9v-4H5V9h4V5h2v4h4v2z"></path></svg>&nbsp;<span>Compare</span></div>
             <div class="flex items-center cursor-pointer"><svg class="mr-1 flex items-center" width="15px" height="15px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#000"><g><path data-name="comment-dots-Filled" d="M18,8H6V6H18V8M18,11H6V9H18V11M18,14H6V12H18V14M22,4A2,2 0 0,0 20,2H4A2,2 0 0,0 2,4V16A2,2 0 0,0 4,18H18L22,22V4Z"></path></g></svg>&nbsp;<span>Comment</span></div>
             <style>
@@ -64,127 +64,111 @@ require('header.php');
                 </div>
             </div>
             <!-- MODAL ENDS -->
-            <div class="col-span-3"><p>Lenovo ThinkBook 15 21DJA049IH Intel Core i5 12th Gen (8GB/512GB SSD/Win 11) best price in India is at ₹ 59,990. The lowest price of Lenovo ThinkBook 15 21DJA049IH Laptop is ₹ 59,990 in Amazon.in.</p>
+            <div class="col-span-3"><p>Fire Boltt Rocket Smart Watch best price in India is at ₹ 2,499.</p>
             </div>
             <div class="col-span-3"><p class="text-xl font-medium">Key Specifications</p></div>
             <div style="background-color:#f6f6f4" class="col-span-3 grid grid-cols-3 gap-2">
-            <div><p class="font-medium">Launch Date</p><br>March 21, 2023</div>
-            <div><p class="font-medium">Processor</p><br>March 21, 2023</div>
-            <div><p class="font-medium">Display</p><br>March 21, 2023</div>
-            <div><p class="font-medium">RAM</p><br>March 21, 2023</div>
-            <div><p class="font-medium">Storage</p><br>March 21, 2023</div>
-            <div><p class="font-medium">Operating System</p><br>March 21, 2023</div>
-            
+            <div><p class="font-medium">Dial Shape</p><br>Circle</div>
+            <div><p class="font-medium">Touch Screen</p><br>Yes</div>
+            <div><p class="font-medium">Display</p><br>1.3 inches, TFT</div>
+            <div><p class="font-medium">Water Resistant</p><br>Yes, IP67</div>
+            <div><p class="font-medium">Fitness Features</p><br>Pedometer, Heart Rate Monitor, SpO2<br>(Blood Oxygen) Monitor, Calorie Count,<br>Step Count, Sleep Monitor</div>
+            <div><p class="font-medium">Weight</p><br>36.8 g</div>
+            <div><p class="font-medium">Warranty</p><br>1 Year</div>
             </div>
         </div>
     </div>
     <div class="my-6 lg:mx-36 sm:mx-6 pt-2 border-t-2 border-black">
-    <b>Lenovo ThinkBook 15 21DJA049IH Intel Core i5 12th Gen (8GB/512GB SSD/Win 11) Description</b> <br>
-    Lenovo ThinkBook 15 21DJA049IH Intel Core i5 12th Gen (8GB/512GB SSD/Win 11) best price in India is at ₹59,990. The lowest price of Lenovo ThinkBook 15 21DJA049IH Intel Core i5 12th Gen (8GB/512GB SSD/Win 11) was obtained on April 1, 2023. It is available at 1 stores. The lowest price of Lenovo ThinkBook 15 21DJA049IH Laptop is ₹59,990 in Amazon.in.
+    <b>Fire Boltt Rocket Smartwach Prices</b> <br>
+    Fire Boltt Rocket Smartwach best price in India is at ₹2,499. The lowest price of Fire Boltt Rocket Smartwach was obtained on April 2, 2023. It is available at 2 stores. The lowest price of Fire Boltt Rocket Smartwach is ₹2,499 in Amazon.in.
     </div>
     <div class="my-6 lg:mx-36 sm:mx-6">
         <h2 class="text-lg font-bold">Poco X5 5G Full Specifications</h2><br>
         <table class="table-auto mx-auto border-solid border-2 border-black">
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="4">General</TH>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="2">General</TH>
                 <th align="left"  class="border-solid border-2 border-black py-2 px-2">Brand</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Lenovo</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Type</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Thin and Light Laptop</td>
+                <td  class="border-solid border-2 border-black py-2 px-2">Fire Boltt</td>
             </tr>
             <tr>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2">Model</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">21DJA049IH</td>
-            </tr>
-            <tr>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Operating System</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Windows 11 Home</td>
+                <td  class="border-solid border-2 border-black py-2 px-2">Rocket</td>
             </tr>
             <?php //SECOND SECTION:?>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="3">Design</td>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Dimensions</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">35.7 x 23.5 x 1.9 cm</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="5">Design</td>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Weight</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">36.8 g</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Weight</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">1.7 kg</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Dial Shape</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Circle</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Colours</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Grey</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Dial Material</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Metal</td>
+            </tr>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Strap Material</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Silicone</td>
+            </tr>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Closure</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Buckle</td>
             </tr>
             <?php //THIRD SECTION:?>
             <tr>
-                <th align="left" class="bordesolid border-2 border-black py-2 px-2" rowspan="5">Display</td>
+                <th align="left" class="bordesolid border-2 border-black py-2 px-2" rowspan="4">Display</td>
                 <th align="left"  class="border-solid border-2 border-black py-2 px-2">Touch Screen	</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">No</td>
+                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
             </tr>
             <tr>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Screen Size</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">15.6 inches, Full HD</td>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Display</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">TFT</td>
             </tr>
             <tr>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2">Screen Resolution</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">	1920 x 1080 pixels</td>
+                <td  class="border-solid border-2 border-black py-2 px-2">240 x 240 pixels, 261 ppi density</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Display</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">250 nits</td>
-            </tr>
-            <tr>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Display Features</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Anti-Glare</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Screen Size</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">1.3 inches</td>
             </tr>
             <?php //FOURTH SECTION:?>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="6">Performance</th>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Processor</td>
-                <td  class="border-solid border-2 border-black py-2 px-2">Intel Core i5 12th Gen</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="5">Connectivity</th>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Bluetooth</td>
+                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Processor Variant</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">1235UG4</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">GPS</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">No</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">GPU</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Intel UHD</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Wi-Fi</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">No</td>
             </tr>
             <tr>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Clock Speed</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">4.4 GHz</td>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Call Function</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Yes, Make Calls, Receive Calls</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Cores</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">10 Cores, 12 Threads</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">System Architecture</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">64 bit</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Notification</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
             </tr>
              <?php //FIFTH SECTION:?>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="5">Storage</TH>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">RAM</td>
-                <td  class="border-solid border-2 border-black py-2 px-2">8 GB, DDR4</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="3">Battery</TH>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Rechargebale</td>
+                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">RAM Frequency</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">3200 MHz</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Battery Type</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Li-Ion</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">SSD Storage</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">512 GB</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">HDD Storage</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Not present</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Cache</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">12 MB</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Charging Time</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">3 Hrs</td>
             </tr>
             <?php //SIXTH SECTION:?>
             <tr>
@@ -198,68 +182,47 @@ require('header.php');
             </tr>
             <?php //SEVENTH SECTION:?>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="2">Connectivity</TH>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Bluetooth</td>
-                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="1">Platform</TH>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Compatible OS</td>
+                <td  class="border-solid border-2 border-black py-2 px-2">Android, iOS</td>
             </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Wi-Fi</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
-            </tr>
-           
             <!--EIGHT  SECTION -->
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="5">Ports and Slots</TH>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Ethernet Port</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Yes, 1 x RJ-45</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="4">Fitness & Features</TH>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Fitness Features</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Pedometer, Heart Rate Monitor, SpO2 (Blood Oxygen)<br>Monitor, Calorie Count, Step Count, Sleep Monitor</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">USB Port</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">1 x USB 3.2 Gen 2 Type-C, 1 x Thunderbolt 4,<br> 2 x USB 3.2 Gen 1 Type-A</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Features</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Date & Time, Alarm Clock</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">HDMI Port</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">1 x HDMI Port</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Water Resistant</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Yes, IP67</td>
             </tr>
             <tr>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Multi Card Slot</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">4-in-1 card reader</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Headset Jack</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Extra Features</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">100+ Sports Mode</td>
             </tr>
             <!--NINETH SECTION -->
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="3">Multimedia</TH>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Web Camera</th>
+           <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="3">Audio and Video</th>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Built-in Speaker</th>
                 <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Mic</th>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Microphone</th>
                 <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Speakers</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Yes, Dual Speaker</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Voice Control</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Yes, Siri, Google Assistant</td>
             </tr>
             <!--TENTH  SECTION -->
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="4">Features</th>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Disk Drive</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">No</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Keyboard</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Backlit Keyboard</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Fingerprint Sensor</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">No</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="1">Warranty</TH>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Warranty</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">1 Year</td>
             </tr>
         </table>
     </div>
