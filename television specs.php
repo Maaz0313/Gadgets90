@@ -6,7 +6,7 @@ require('header.php');
         <div class="grid grid-cols-4 gap-3 my-6 lg:mx-36 sm:mx-6">
         <div><img style="max-height: 250px; width:auto;max-width: 100%; height: auto;" class="w-16 md:w-32 lg:w-36" src="http://localhost/Gadgets90/img/lenovo-thinkbook-15-21dja049ih.PNG" alt=""></div>
         <div class="col-span-3 grid grid-cols-3 gap-3">
-            <div class="col-span-3"><h1 class="text-2xl font-bold">Lenovo ThinkBook 15 21DJA049IH Intel Core i5 12th Gen (8GB/512GB SSD/Win 11)</h1></div>
+            <div class="col-span-3"><h1 class="text-2xl font-bold">Haier LE32A9000 32 inches HD Ready LED Smart TV</h1></div>
             <div class="flex items-center cursor-pointer"><svg class="mr-1 flex items-center" width="15px" height="15px" viewBox="0 0 20 20" fill="#000" xmlns="http://www.w3.org/2000/svg"><path d="M10 1.6a8.4 8.4 0 1 0 0 16.8 8.4 8.4 0 0 0 0-16.8zm5 9.4h-4v4H9v-4H5V9h4V5h2v4h4v2z"></path></svg>&nbsp;<span>Compare</span></div>
             <div class="flex items-center cursor-pointer"><svg class="mr-1 flex items-center" width="15px" height="15px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#000"><g><path data-name="comment-dots-Filled" d="M18,8H6V6H18V8M18,11H6V9H18V11M18,14H6V12H18V14M22,4A2,2 0 0,0 20,2H4A2,2 0 0,0 2,4V16A2,2 0 0,0 4,18H18L22,22V4Z"></path></g></svg>&nbsp;<span>Comment</span></div>
             <style>
@@ -64,23 +64,22 @@ require('header.php');
                 </div>
             </div>
             <!-- MODAL ENDS -->
-            <div class="col-span-3"><p>Lenovo ThinkBook 15 21DJA049IH Intel Core i5 12th Gen (8GB/512GB SSD/Win 11) best price in India is at ₹ 59,990. The lowest price of Lenovo ThinkBook 15 21DJA049IH Laptop is ₹ 59,990 in Amazon.in.</p>
+            <div class="col-span-3"><p>Haier LE32A9000 32 inches HD Ready LED Smart TV best price in India is at ₹ 14,990.</p>
             </div>
             <div class="col-span-3"><p class="text-xl font-medium">Key Specifications</p></div>
             <div style="background-color:#f6f6f4" class="col-span-3 grid grid-cols-3 gap-2">
-            <div><p class="font-medium">Launch Date</p><br>March 21, 2023</div>
-            <div><p class="font-medium">Processor</p><br>March 21, 2023</div>
-            <div><p class="font-medium">Display</p><br>March 21, 2023</div>
-            <div><p class="font-medium">RAM</p><br>March 21, 2023</div>
-            <div><p class="font-medium">Storage</p><br>March 21, 2023</div>
-            <div><p class="font-medium">Operating System</p><br>March 21, 2023</div>
+            <div><p class="font-medium">Launch Year</p><br>2023</div>
+            <div><p class="font-medium">Screen Resolution</p><br>1366 x 768 pixels</div>
+            <div><p class="font-medium">Display</p><br>32 inches, HD Ready</div>
+            <div><p class="font-medium">Smart TV</p><br>Yes</div>
+            <div><p class="font-medium">Operating System</p><br>Google TV</div>
             
             </div>
         </div>
     </div>
     <div class="my-6 lg:mx-36 sm:mx-6 pt-2 border-t-2 border-black">
-    <b>Lenovo ThinkBook 15 21DJA049IH Intel Core i5 12th Gen (8GB/512GB SSD/Win 11) Description</b> <br>
-    Lenovo ThinkBook 15 21DJA049IH Intel Core i5 12th Gen (8GB/512GB SSD/Win 11) best price in India is at ₹59,990. The lowest price of Lenovo ThinkBook 15 21DJA049IH Intel Core i5 12th Gen (8GB/512GB SSD/Win 11) was obtained on April 1, 2023. It is available at 1 stores. The lowest price of Lenovo ThinkBook 15 21DJA049IH Laptop is ₹59,990 in Amazon.in.
+    <b>Haier LE32A9000 32 inches HD Ready LED Smart TV Prices</b> <br>
+    Haier LE32A9000 32 inches HD Ready LED Smart TV best price in India is at ₹14,990. The lowest price of Haier LE32A9000 32 inches HD Ready LED Smart TV was obtained on April 1, 2023. It is available at 1 stores. The lowest price of Haier LE32A9000 32 inches HD Ready LED Smart TV is ₹14,990 in Flipkart.com.
     </div>
     <div class="my-6 lg:mx-36 sm:mx-6">
         <h2 class="text-lg font-bold">Poco X5 5G Full Specifications</h2><br>
@@ -88,19 +87,19 @@ require('header.php');
             <tr>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="4">General</TH>
                 <th align="left"  class="border-solid border-2 border-black py-2 px-2">Brand</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Lenovo</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Type</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Thin and Light Laptop</td>
+                <td  class="border-solid border-2 border-black py-2 px-2">Haier</td>
             </tr>
             <tr>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2">Model</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">21DJA049IH</td>
+                <td  class="border-solid border-2 border-black py-2 px-2">LE32A9000</td>
             </tr>
             <tr>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Operating System</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Windows 11 Home</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Launch Year</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">2023</td>
+            </tr>
+            <tr>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">In The Box</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">1 TV, 1 User Manual, 1 Warranty Card, 1 Remote<br>Control,1 Set Base Stand , 1 Pair Screws, 1 Pair<br>Batteries, 1 Power Cord, 1 Wall Mounting Set</td>
             </tr>
             <?php //SECOND SECTION:?>
             <tr>
@@ -118,7 +117,7 @@ require('header.php');
             </tr>
             <?php //THIRD SECTION:?>
             <tr>
-                <th align="left" class="bordesolid border-2 border-black py-2 px-2" rowspan="5">Display</td>
+                <th align="left" class="bordesolid border-2 border-black py-2 px-2" rowspan="4">Display</td>
                 <th align="left"  class="border-solid border-2 border-black py-2 px-2">Touch Screen	</th>
                 <td  class="border-solid border-2 border-black py-2 px-2">No</td>
             </tr>
@@ -132,11 +131,7 @@ require('header.php');
             </tr>
             <tr>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2">Display</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">250 nits</td>
-            </tr>
-            <tr>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Display Features</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Anti-Glare</td>
+                <td  class="border-solid border-2 border-black py-2 px-2">LED, 50 Hz</td>
             </tr>
             <?php //FOURTH SECTION:?>
             <tr>
@@ -166,100 +161,67 @@ require('header.php');
             </tr>
              <?php //FIFTH SECTION:?>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="5">Storage</TH>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">RAM</td>
-                <td  class="border-solid border-2 border-black py-2 px-2">8 GB, DDR4</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="3">Audio</TH>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Number Of Speakers</td>
+                <td  class="border-solid border-2 border-black py-2 px-2">2</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">RAM Frequency</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">3200 MHz</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Total Speaker Output</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">10 w</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">SSD Storage</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">512 GB</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">HDD Storage</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Not present</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Cache</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">12 MB</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Output Per Speaker</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">5 w</td>
             </tr>
             <?php //SIXTH SECTION:?>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="2">Battery</th>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Battery Type</td>
-                <td  class="border-solid border-2 border-black py-2 px-2">3 cell, Li-ion</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="2">Power Supply</th>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Voltage Requirement</td>
+                <td  class="border-solid border-2 border-black py-2 px-2">220 V</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Power Supply</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">65W USB-C slim AC adapter</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Power Consumption</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">60 w</td>
             </tr>
-            <?php //SEVENTH SECTION:?>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="2">Connectivity</TH>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Bluetooth</td>
-                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Wi-Fi</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
-            </tr>
-           
             <!--EIGHT  SECTION -->
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="5">Ports and Slots</TH>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Ethernet Port</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Yes, 1 x RJ-45</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="5">Ports</TH>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">USB Ports</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">1</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">USB Port</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">1 x USB 3.2 Gen 2 Type-C, 1 x Thunderbolt 4,<br> 2 x USB 3.2 Gen 1 Type-A</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">HDMI Ports</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">3</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">HDMI Port</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">1 x HDMI Port</td>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">RF Input (Analog Co-axial) Ports</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">1</td>
             </tr>
             <tr>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Multi Card Slot</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">4-in-1 card reader</td>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Component Output Ports</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">1</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Headset Jack</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
-            </tr>
-            <!--NINETH SECTION -->
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="3">Multimedia</TH>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Web Camera</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Mic</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Speakers</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Yes, Dual Speaker</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Headphone/Speaker Output Ports</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">1</td>
             </tr>
             <!--TENTH  SECTION -->
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="4">Features</th>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Disk Drive</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">No</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Keyboard</th>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="4">TV Features</th>
+                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Smart TV	</th>
                 <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Backlit Keyboard</th>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Operating System</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Google TV</td>
+            </tr>
+            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">WiFi</th>
                 <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Fingerprint Sensor</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">No</td>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2">Bluetooth</th>
+                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
             </tr>
         </table>
     </div>
