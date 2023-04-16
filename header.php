@@ -42,7 +42,7 @@
 
       <!-- secondary nav -->
       <div class="hidden md:flex items-center space-x-1">
-        <a href="" class="py-2 px-3 bg-transparent hover:bg-blue-500 text-blue-700 font-semibold hover:text-white border border-blue-500 hover:border-transparent rounded">Login</a>
+        <a href="http://localhost/Gadgets90/login.php" class="py-2 px-3 text-yellow-300 bg-green-600 hover:bg-blue-500 text-blue-700 font-semibold hover:text-white border border-blue-500 hover:border-transparent rounded">Login</a>
         <a href="" class="py-2 px-3 bg-yellow-400 hover:bg-yellow-300 text-yellow-900 hover:text-yellow-800 rounded transition duration-300">Signup</a>
       </div>
 
@@ -70,7 +70,7 @@
         <button class="-ml-8 border-6 bg-trasparent" type="submit"><i class="fa fa-search text-gray-400"></i></button>
     </form>
     <div class="login-signup-container flex space-x-4 py-2 px-6">
-      <a href="" class="py-2 px-3 w-20 inline-block text-center bg-blue-500 text-blue-700 text-white border border-transparent rounded">Login</a>
+      <a href="http://localhost/Gadgets90/login.php" class="py-2 px-3 w-20 inline-block text-center text-yellow-300 bg-green-600 hover:bg-blue-500 hover:text-white border border-transparent rounded">Login</a>
       <a href="" class="py-2 px-3 w-20 inline-block text-center bg-yellow-400 hover:bg-yellow-300 text-yellow-900 hover:text-yellow-800 rounded transition duration-300">Signup</a>
     </div>
   </div>
