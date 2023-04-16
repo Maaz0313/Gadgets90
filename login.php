@@ -27,6 +27,7 @@ require('header.php');
 						</div>
                     </form>
 				</div>
+                <div><a href="" class="text-blue-500">Forgot Password?</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="" class="text-blue-500">SignUp</a></div>
 			</div>
 		</div>
 	</div>
