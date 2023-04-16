@@ -1,5 +1,5 @@
 <?php
-require('header.php');
+require('../header.php');
 ?>
 <!-- component -->
 <div class="min-h-screen bg-gray-100 py-6 flex flex-col justify-center sm:py-12">
@@ -27,9 +27,9 @@ require('header.php');
 						</div>
                     </form>
 				</div>
-                <div><a href="" class="text-blue-500">Forgot Password?</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="" class="text-blue-500">SignUp</a></div>
+                <div><a href="http://localhost/Gadgets90/user/forgot-password.php" class="text-blue-500">Forgot Password?</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://localhost/Gadgets90/user/signup.php" class="text-blue-500">SignUp</a></div>
 			</div>
 		</div>
 	</div>
 </div>
-<?php require('footer.php'); ?>
+<?php require('../footer.php'); ?>
