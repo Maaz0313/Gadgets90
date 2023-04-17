@@ -83,7 +83,7 @@ require('header.php');
     Lenovo ThinkBook 15 21DJA049IH Intel Core i5 12th Gen (8GB/512GB SSD/Win 11) best price in India is at ₹59,990. The lowest price of Lenovo ThinkBook 15 21DJA049IH Intel Core i5 12th Gen (8GB/512GB SSD/Win 11) was obtained on April 1, 2023. It is available at 1 stores. The lowest price of Lenovo ThinkBook 15 21DJA049IH Laptop is ₹59,990 in Amazon.in.
     </div>
     <div class="my-6 lg:mx-36 sm:mx-6">
-        <h2 class="text-lg font-bold">Poco X5 5G Full Specifications</h2><br>
+        <h2 class="text-lg font-bold">Lenovo ThinkBook 15 21DJA049IH Full Specifications</h2><br>
         <table class="table-auto mx-auto border-solid border-2 border-black">
             <tr>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="4">General</TH>
@@ -245,11 +245,7 @@ require('header.php');
             </tr>
             <!--TENTH  SECTION -->
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="4">Features</th>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Disk Drive</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">No</td>
-            </tr>
-            <tr>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="3">Features</th>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2">Keyboard</th>
                 <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
             </tr>

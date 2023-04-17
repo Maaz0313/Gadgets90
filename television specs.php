@@ -134,32 +134,8 @@ require('header.php');
                 <td  class="border-solid border-2 border-black py-2 px-2">LED, 50 Hz</td>
             </tr>
             <?php //FOURTH SECTION:?>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="6">Performance</th>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Processor</td>
-                <td  class="border-solid border-2 border-black py-2 px-2">Intel Core i5 12th Gen</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Processor Variant</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">1235UG4</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">GPU</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Intel UHD</td>
-            </tr>
-            <tr>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Clock Speed</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">4.4 GHz</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Cores</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">10 Cores, 12 Threads</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">System Architecture</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">64 bit</td>
-            </tr>
-             <?php //FIFTH SECTION:?>
+            
+             
             <tr>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="3">Audio</TH>
                 <th align="left"  class="border-solid border-2 border-black py-2 px-2">Number Of Speakers</td>
@@ -173,7 +149,7 @@ require('header.php');
                 <th align="left" class="border-solid border-2 border-black py-2 px-2">Output Per Speaker</th>
                 <td  class="border-solid border-2 border-black py-2 px-2">5 w</td>
             </tr>
-            <?php //SIXTH SECTION:?>
+            <?php //FIFTH SECTION:?>
             <tr>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="2">Power Supply</th>
                 <th align="left"  class="border-solid border-2 border-black py-2 px-2">Voltage Requirement</td>
@@ -183,7 +159,7 @@ require('header.php');
                 <th align="left" class="border-solid border-2 border-black py-2 px-2">Power Consumption</th>
                 <td  class="border-solid border-2 border-black py-2 px-2">60 w</td>
             </tr>
-            <!--EIGHT  SECTION -->
+            <?php //SIXTH SECTION:?>
             <tr>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="5">Ports</TH>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2">USB Ports</th>
@@ -205,7 +181,7 @@ require('header.php');
                 <th align="left" class="border-solid border-2 border-black py-2 px-2">Headphone/Speaker Output Ports</th>
                 <td  class="border-solid border-2 border-black py-2 px-2">1</td>
             </tr>
-            <!--TENTH  SECTION -->
+            <!--SEVENTH  SECTION -->
             <tr>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="4">TV Features</th>
                 <th align="left"  class="border-solid border-2 border-black py-2 px-2">Smart TV	</th>

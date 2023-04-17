@@ -158,7 +158,7 @@ require('header.php');
             </tr>
              <?php //FIFTH SECTION:?>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="3">Battery</TH>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="4">Battery</TH>
                 <th align="left"  class="border-solid border-2 border-black py-2 px-2">Rechargebale</td>
                 <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
             </tr>
@@ -169,12 +169,6 @@ require('header.php');
             <tr>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2">Charging Time</th>
                 <td  class="border-solid border-2 border-black py-2 px-2">3 Hrs</td>
-            </tr>
-            <?php //SIXTH SECTION:?>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="2">Battery</th>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Battery Type</td>
-                <td  class="border-solid border-2 border-black py-2 px-2">3 cell, Li-ion</td>
             </tr>
             <tr>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2">Power Supply</th>

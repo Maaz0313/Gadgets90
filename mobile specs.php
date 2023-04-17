@@ -88,13 +88,9 @@ Xiaomi is launching the new Poco X5 series with a brand new GT model that will b
         <h2 class="text-lg font-bold">Poco X5 5G Full Specifications</h2><br>
         <table class="table-auto mx-auto border-solid border-2 border-black">
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="6">Build</TH>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="5">Build</TH>
                 <th align="left"  class="border-solid border-2 border-black py-2 px-2">OS</th>
                 <td  class="border-solid border-2 border-black py-2 px-2">Android 12</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">UI</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">MIUI 13 for POCO</td>
             </tr>
             <tr>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2">Dimensions</th>
@@ -151,7 +147,7 @@ Xiaomi is launching the new Poco X5 series with a brand new GT model that will b
             </tr>
             <?php //FOURTH SECTION:?>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="5">Display</TH>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="4">Display</TH>
                 <th align="left"  class="border-solid border-2 border-black py-2 px-2">Technology</td>
                 <td  class="border-solid border-2 border-black py-2 px-2">AMOLED Capacitive Touchscreen, Multitouch</td>
             </tr>
@@ -162,10 +158,6 @@ Xiaomi is launching the new Poco X5 series with a brand new GT model that will b
             <tr>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2">Resolution</th>
                 <td  class="border-solid border-2 border-black py-2 px-2">1080 x 2400 Pixels (~395 PPI)</td>
-            </tr>
-            <tr>
-                <th align="left"  class="border-solid border-2 border-black py-2 px-2">Protection</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Corning Gorilla Glass 3</td>
             </tr>
             <tr>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2">Extra Features</th>
@@ -201,7 +193,7 @@ Xiaomi is launching the new Poco X5 series with a brand new GT model that will b
             </tr>
             <!-- SEVENTH SECTION -->
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="8">Connectivity</TH>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="7">Connectivity</TH>
                 <th align="left"  class="border-solid border-2 border-black py-2 px-2">WLAN</th>
                 <td  class="border-solid border-2 border-black py-2 px-2">Wi-Fi 802.11 a/b/g/n/ac, dual-band</td>
             </tr>
@@ -226,10 +218,6 @@ Xiaomi is launching the new Poco X5 series with a brand new GT model that will b
                 <td  class="border-solid border-2 border-black py-2 px-2">Yes, with Google Pay</td>
             </tr>
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Infrared</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
-            </tr>
-            <tr>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2">Data</th>
                 <td  class="border-solid border-2 border-black py-2 px-2">GPRS, Edge, 3G (HSPA 42.2/5.76 Mbps), 4G LTE-A, 5G capable</td>
             </tr>
@@ -245,7 +233,7 @@ Xiaomi is launching the new Poco X5 series with a brand new GT model that will b
             </tr>
             <!-- NINETH SECTION -->
             <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="7">Features</TH>
+                <th align="left" class="border-solid border-2 border-black py-2 px-2" rowspan="6">Features</TH>
                 <th align="left"  class="border-solid border-2 border-black py-2 px-2">Sensors</th>
                 <td  class="border-solid border-2 border-black py-2 px-2">Accelerometer, Electronic Compass, <font color="#000077"><b>Fingerprint (side mounted)</b></font>,<br> Gyro, Proximity, IR blaster, Ambient light sensor</td>
             </tr>
@@ -264,10 +252,6 @@ Xiaomi is launching the new Poco X5 series with a brand new GT model that will b
             <tr>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2">Games</th>
                 <td  class="border-solid border-2 border-black py-2 px-2">Built-in + Downloadable</td>
-            </tr>
-            <tr>
-                <th align="left" class="border-solid border-2 border-black py-2 px-2">Torch</th>
-                <td  class="border-solid border-2 border-black py-2 px-2">Yes</td>
             </tr>
             <tr>
                 <th align="left" class="border-solid border-2 border-black py-2 px-2">Extra</th>
