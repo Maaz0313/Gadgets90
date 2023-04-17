@@ -35,7 +35,7 @@
           <a class="py-5 px-6 text-white hover:underline underline-offset-8" href="http://localhost/Gadgets90/mobiles.php">Mobiles</a>
           <a class="py-5 px-6 text-white hover:underline underline-offset-8" href="http://localhost/Gadgets90/laptops.php">Laptops</a>
           <a class="py-5 px-6 text-white hover:underline underline-offset-8" href="http://localhost/Gadgets90/televisions.php">Televisions</a>
-          <a class="py-5 px-6 text-white hover:underline underline-offset-8" href="http://localhost/Gadgets90/smart_watches.php">Smart Watches</a>
+          <a class="py-5 px-6 text-white hover:underline underline-offset-8" href="http://localhost/Gadgets90/smart watches.php">Smart Watches</a>
           <a class="py-5 px-6 text-white hover:underline underline-offset-8" href="http://localhost/Gadgets90/headsets.php">Headsets</a>
         </div>
       </div>
@@ -63,7 +63,7 @@
     <a class="block py-2 px-6 text-white hover:underline underline-offset-8" href="http://localhost/Gadgets90/mobiles.php">Mobiles</a>
     <a class="block py-2 px-6 text-white hover:underline underline-offset-8" href="http://localhost/Gadgets90/laptops.php">Laptops</a>
     <a class="block py-2 px-6 text-white hover:underline underline-offset-8" href="http://localhost/Gadgets90/televisions.php">Televisions</a>
-    <a class="block py-2 px-6 text-white hover:underline underline-offset-8" href="http://localhost/Gadgets90/smart_watches.php">Smart Watches</a>
+    <a class="block py-2 px-6 text-white hover:underline underline-offset-8" href="http://localhost/Gadgets90/smart watches.php">Smart Watches</a>
     <a class="block py-2 px-6 text-white hover:underline underline-offset-8" href="http://localhost/Gadgets90/headsets.php">Headsets</a>
     <form class="block py-2 px-4" action="">
         <input class="w-72 py-1 pl-3 pr-10 rounded-full focus:outline-0" type="text" placeholder="Search.." name="search">
