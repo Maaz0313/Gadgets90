@@ -41,7 +41,7 @@ if (isset($_POST['register_btn'])) {
     if (mysqli_num_rows($login_query_run) > 0) {
         $_SESSION['auth'] = true;
         $userdata = mysqli_fetch_array($login_query_run);
-        $username = $userdata['f_name'];
+        $username = trim($userdata['f_name']) . ' ' . trim($userdata['l_name']);
         $useremail = $userdata['email'];
 
         $_SESSION['auth_user'] = [
@@ -50,9 +50,7 @@ if (isset($_POST['register_btn'])) {
         ];
         $_SESSION['message'] = "Logged In Successfully";
         header('Location: ../index.php');
-    }
-    else
-    {
+    } else {
         $_SESSION['message'] = "Invalid Credentials";
         header('Location: ../user/login.php');
     }

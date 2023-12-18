@@ -108,9 +108,3 @@ require('../header.php');
   </div>
 </main>
 <?php require('../footer.php'); ?>
-<script>
-  var alert = document.getElementById('alert-2');
-  document.getElementById('cls').onclick = function() {
-    alert.classList.toggle('hidden');
-  }
-</script>
